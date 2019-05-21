@@ -1,0 +1,13 @@
+{
+  "name": "ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch.js",
+  
+  "scripts": {
+    "start": "parcel --no-cache index.html --open",
+    "server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}

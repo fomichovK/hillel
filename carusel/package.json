@@ -1,0 +1,24 @@
+{
+  "name": "carusel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fomichovK/jsCarusel.git"
+  },
+
+    "scripts": {
+        "start": "parcel --no-cache index.html --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fomichovK/jsCarusel/issues"
+  },
+  "homepage": "https://github.com/fomichovK/jsCarusel#readme"
+}
